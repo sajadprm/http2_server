@@ -1,0 +1,8 @@
+@font-face {
+    font-family:"wfont" ;
+    src: url("./font.otf");
+}
+p {
+    font-family: 'wfont';
+    font-size: 15px;
+}
